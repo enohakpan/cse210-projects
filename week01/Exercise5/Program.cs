@@ -44,4 +44,5 @@ class Program
             Console.WriteLine($"Dear {name}, the square of your favorite number is {square}.");
             
         }
+    
 }
