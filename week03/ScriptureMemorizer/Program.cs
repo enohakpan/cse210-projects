@@ -74,7 +74,7 @@ class Program
             if (input.ToLower() == "quit")
                 break;
 
-            selectedScripture.HideRandomWords(3);
+            selectedScripture.HideRandomWords(4);
         }
 
         Console.WriteLine("Well done! You've completed the memorization exercise.");
